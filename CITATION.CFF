@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "RFuse"
+message: "For the living bibliography, see the Zotero Group Library."
+authors:
+  - family-names: Brian
+    given-names: Ortiz
+references:
+  - type: other
+    title: "Zotero Group Library (RFuse)"
+    url: "https://www.zotero.org/groups/6363927/rfuse"
+
